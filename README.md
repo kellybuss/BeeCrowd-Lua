@@ -1,2 +1,2 @@
 # BeeCrowd-Lua
-Questões da plataforma BeeCrowd resolvidas usando a linguagem Lua (.lua).
+Problemas da plataforma BeeCrowd resolvidos usando a linguagem Lua (.lua).
